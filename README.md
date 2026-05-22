@@ -98,6 +98,5 @@ python experiments/03_K-means.py
 ## 待扩展
 
 - [ ] SVM 分类实验
-- [ ] 深度学习（PyTorch CNN）
 - [ ] 类别不平衡处理（SMOTE、class_weight）
 - [ ] 原始音频波形特征提取（替代预提取的 FFT）
