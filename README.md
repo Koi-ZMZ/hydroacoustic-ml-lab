@@ -1,4 +1,4 @@
-# 水声信号机器学习实战 (Hydroacoustic ML Lab)
+# 水声信号机器学习实战 (MendeleyData ML Lab)
 
 基于 FFT 频谱特征的水下声信号分类与聚类，使用 scikit-learn 完整管线。
 
